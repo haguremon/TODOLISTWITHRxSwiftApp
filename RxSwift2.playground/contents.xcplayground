@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='ignoreElementPlayground'/>
+        <page name='elementAtPlayground'/>
+        <page name='filterPlayground'/>
+        <page name='skipPlayground'/>
+        <page name='skipWhile'/>
+        <page name='skipUntil'/>
+        <page name='take,takeWhile,takeUntil'/>
+    </pages>
+</playground>
